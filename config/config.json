@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "corcoding",
+    "password": null,
+    "database": "i_love_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "corcoding",
+    "password": null,
+    "database": "i_love_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "corcoding",
+    "password": null,
+    "database": "i_love_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}
